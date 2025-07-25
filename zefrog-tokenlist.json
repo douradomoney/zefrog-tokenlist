@@ -1,0 +1,19 @@
+{
+  "name": "ZeFrog Token List",
+  "timestamp": "2025-07-25T12:00:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 97,
+      "address": "0x42472eB192c4dAdccFbd70c46E13b0606bC8ec83",
+      "name": "ZeFrog",
+      "symbol": "ZE",
+      "decimals": 18,
+      "logoURI": "https://i.imgur.com/ddozyi5.png"
+    }
+  ]
+}
